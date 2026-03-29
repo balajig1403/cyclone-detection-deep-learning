@@ -1,6 +1,4 @@
-**# cyclone-detection-deep-learning
-Deep learning-based cyclone detection system using satellite NetCDF data. This project uses 5 different LSTM architecture and etc. with temporal differencing to classify cyclone vs non-cyclone sequences. Includes preprocessing pipeline, model training, and evaluation.
-**# 🌪️ Cyclone Detection using Deep Learning
+# 🌪️ Cyclone Detection using Deep Learning
 
 ## 📌 Overview
 This project focuses on detecting cyclones from satellite imagery using deep learning techniques. The model leverages temporal patterns in NetCDF satellite data to classify cyclone and non-cyclone events.
