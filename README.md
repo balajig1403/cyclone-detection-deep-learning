@@ -46,3 +46,9 @@ This project focuses on detecting cyclones from satellite imagery using deep lea
 ---
 
 ## 📂 Project Structure
+├── data/
+├── preprocessing.py
+├── model.py
+├── train.py
+├── utils.py
+├── README.md
